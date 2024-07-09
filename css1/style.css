@@ -1,0 +1,54 @@
+h1{
+   text-align: center; 
+   font-size: 46px;
+   font-family: "Playwrite GB S", cursive;
+   color:blueviolet;
+   font-weight: 400;
+}
+
+  h1 span{
+    color: blue;
+}
+
+p{
+    font-size: 20px;
+    font-family: "Playwrite GB S", cursive;
+    line-height:30px;
+    text-align: justify; 
+
+
+}
+
+p span{
+    color: red;
+}
+#para1{
+    color: red;
+}
+
+#para2{
+    color: rgb(247, 0, 255);
+}
+a{
+    background-color:gold;
+    color: white;
+    text-decoration: none;
+    width: 120px;
+    height:50px ;
+    text-align: center;
+    display: block;
+    line-height: 50px;
+    border-radius: 15px;
+    transition: ease;
+
+}
+
+a:hover{
+    background-color: greenyellow;
+    border-radius: 30px;
+
+}
+img{
+    padding-left: 25%;
+}
+
